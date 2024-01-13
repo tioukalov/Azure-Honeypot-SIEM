@@ -1,4 +1,5 @@
 <h1 align="center">Azure Honeypot SIEM</h1>
+<p align="center"><img src="https://imgur.com/J2Ts1xi" height="15%" width="15%" alt="SIEM image"/></p>
 We will use Microsoft Azure Sentinel (SIEM) to expose a virtual computer to the public and gather threat actors’ geographical information based on their failed Windows remote desktop attempts. 
 <h3>Environments and Technologies Used</h3>
 
